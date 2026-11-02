@@ -1,0 +1,6 @@
+question 1 - great
+question 5 - great
+
+question 3 - you need to learn this in the pdf Operators in Python - Housekeeping
+
+question 2,4,6,7 - can you do these
